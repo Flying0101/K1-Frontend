@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+ 
+}
+
+
+
+.completed-task {
+  text-decoration: line-through;
+  color: lightgreen;
+}
+
+.app{
+  position: absolute; 
+  top: 20%;
+  left: 43.5%;
+}
+
+.appHeader{
+  position: absolute; 
+  top: 14%;
+  left: 43.5%;
+}
+
+.container{
+  position: absolute; 
+  top: 23%;
+  left: 41.5%;
+}
+
+.sheesh{
+  background-color: lightgreen; 
+}
+
+.btnTwo{
+  background-color: rgb(255, 114, 114); 
+}
+
+.btnThree{
+  background-color: lightgreen; 
+}
